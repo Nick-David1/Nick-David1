@@ -1,5 +1,5 @@
 ## About Me
-I am a Junior studying Data Science and Business at Boston University. I am passionate about all things tech and business.
+I am a Senior studying Data Science and Business at Boston University. I am passionate about all things tech and business.
 
 ## Hackathons
 
